@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A Software Developer From Ankara/Turkey</h3>
 
-- 🌱 I’m currently learning **.Net Core,React.js**
+- 🌱 I’m currently learning **.Net Core,Angular 2+**
 
 - 📝 I regularly write articles on [https://m-talhaersoy.medium.com/](https://m-talhaersoy.medium.com/)
 
-- 💬 Ask me about **.Net Core**
+- 💬 Ask me about **Angular**
 
 - 📫 How to reach me **m.talhaersoy@gmail.com**
 
